@@ -1,4 +1,4 @@
-La idea es aprender a dominar el mundo programando
+ programando
 
 Chetita 
 <!---
